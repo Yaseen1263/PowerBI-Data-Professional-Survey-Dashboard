@@ -9,10 +9,13 @@ This project analyzes survey data from data professionals across different count
 - Data Modeling
 
 ## 📊 Key Insights
-- Data Scientists have the highest average salary.
-- Python is the most preferred programming language.
-- Average age of survey takers: 29.87
-- Work-life balance rating: 5.74 / 10
-- Salary satisfaction rating: 4.27 / 10
+- Salary trends by job title
+- Programming language preferences
+- Work-life balance ratings
+- Salary satisfaction levels
+- Country-wise distribution of professionals
+
+## 📊 Final Result
+An interactive dashboard was built to visualize global salary trends, job roles, and satisfaction metrics, enabling clear and data-driven insights.
 
 
