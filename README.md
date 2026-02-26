@@ -15,5 +15,4 @@ This project analyzes survey data from data professionals across different count
 - Work-life balance rating: 5.74 / 10
 - Salary satisfaction rating: 4.27 / 10
 
-## 📷 Dashboard Preview
-(Add your screenshots here)
+
